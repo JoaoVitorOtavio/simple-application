@@ -1,0 +1,13 @@
+C:\Users\BOB\source\repos\TesteApp\TesteApp\bin\Debug\TesteApp.exe.config
+C:\Users\BOB\source\repos\TesteApp\TesteApp\bin\Debug\TesteApp.exe
+C:\Users\BOB\source\repos\TesteApp\TesteApp\bin\Debug\TesteApp.pdb
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.csprojAssemblyReference.cache
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.ConsultaCod.resources
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.Properties.Resources.resources
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.TelaPrincipal.resources
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.csproj.GenerateResource.cache
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.csproj.CoreCompileInputs.cache
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.exe
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.pdb
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.ConsultaTodos.resources
+C:\Users\BOB\source\repos\TesteApp\TesteApp\obj\Debug\TesteApp.ConsultaEmp.resources
